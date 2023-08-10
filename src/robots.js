@@ -36,7 +36,7 @@ export const robots = [
   },
   {
     id: 123,
-    name: 'Είρηνη',
+    name: 'Ειρήνη',
     email: 'Η όμορφη'
   },
   {
